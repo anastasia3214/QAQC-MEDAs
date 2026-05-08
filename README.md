@@ -10,7 +10,7 @@ The procedure consists of the following steps:<br>
 5 - Range test<br>
 6 - Spike test<br>
 7 - Adding missing values<br>
-The datasets are saved in Excel format.<br>
+The datasets are saved in csv format.<br>
 <br>
 <br>
 ## Requirements:<br>
